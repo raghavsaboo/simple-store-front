@@ -29,4 +29,6 @@ const apples = {
         price: 199,
         status: "unavailable"
     }
-}
+};
+
+export default apples;
